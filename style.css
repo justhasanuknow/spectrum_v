@@ -1,0 +1,74 @@
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  margin: auto;
+  text-align: center;
+}
+
+hr {
+  width: 1000px;
+}
+div.self {
+  float:left;
+  width: 100px;
+  height: 300px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+div#itemone {
+  background-color: #e8c41a;
+}
+
+div#itemtwo{
+  background-color: #a0b735;
+}
+
+div#itemthree{
+  background-color: #64ad5b;
+}
+
+div#itemfour{
+  background-color: #009a92;
+}
+
+div#itemfive{
+  background-color: #3786b0;
+}
+
+div#itemsix {
+    background-color: #7577a8;
+}
+
+div#itemseven {
+  background-color: #976b80;
+}
+
+div#itemeight {
+  background-color: #bb6b7a;
+}
+
+div#itemnine {
+  background-color: #b96777;
+}
+
+div#itemten {
+  background-color: #eb7c4d;
+}
+
+div#itemeleven {
+  background-color: #ee8b1e;
+}
+
+div#itemtwelwe{
+  background-color: #ed9a00;
+}
+
+div#itemthirtheen {
+  background-color: #dcb100;
+}
