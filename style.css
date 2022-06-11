@@ -72,3 +72,7 @@ div#itemtwelwe{
 div#itemthirtheen {
   background-color: #dcb100;
 }
+
+div.padder {
+  padding: 5px;
+}
